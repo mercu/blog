@@ -1,4 +1,4 @@
-# SRE
+# 요약
 
 ## About
 SRE(Site Reliability Engineering)는 구글에서 시작된 엔지니어링 분야로, 
