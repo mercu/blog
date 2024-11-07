@@ -11,10 +11,9 @@
 
 3. 한국어 자료
 - https://techblog.woowahan.com/2587/ (우아한형제들 SRE 문화)
-- https://engineering.linecorp.com/ko/blog/tag/SRE (라인 기술 블로그 SRE)
-- https://engineering.kakao.com/category/reliability/ (카카오 기술 블로그)
+- https://engineering.linecorp.com/ko/search?q=SRE (라인 기술 블로그 SRE)
+- https://tech.kakao.com/tag/reliability (카카오 기술 블로그)
 
 4. 실습 자료
-- https://github.com/uditgaurav/awesome-sre
 - https://github.com/upgundecha/howtheysre
 
